@@ -16,7 +16,7 @@ feature-body: >-
   Develop the language skills and cultural knowledge needed for careers and
   professions ranging from business and government to education and the media.
 ---
-The Department of Asian and Middle Eastern Languages and Studies offers majors in Asian Studies and Chinese, minors in Arabic, Asian Studies, Chinese and Japanese, certificates of language proficiency in Arabic, Chinese and Japanese, and a certificate in Asian Business and Society. We also offer instruction in Hebrew, Hindi and Korean. Our courses taught in English on literature, film and culture also provide rigorous academic training for those interested in going to graduate studies and professional degree programs. The popular minor and certificate programs complement most majors at the university, including Asian Studies and Global Studies.
+Asian Studies draws on the resources of many departments to provide a comprehensive program of study on Asia (especially East Asia). Majors may concentrate on a geographic area, field, or theme(s). By combining language with the study of politics, history, society, art, religion, philosophy, and literature, each student can construct a major tailored to his or her individual interests. The curriculum gives students a foundation for living or working in Asia, or continuing their studies through developing a knowledge base, cross-cultural sensitivity, analytic thinking, and communication and writing skills in English and Asian languages.
 
 ## Academic Offerings
  - [Major in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
