@@ -11,11 +11,8 @@ keywords: 'specialization certificate, Asian, minor, arabic, japanese'
 # custom variables
 sidebar: sidebars/undergraduate.html  
 ---
+## BA in Asian Studies
 
-<div class="row">
-<div class="col m12 l8">
-  <h2>BA in Asian Studies</h2>
-  <p>
 The Asian Studies program will assist students in:<br>
 - understanding the broad foundations of at least one major Asian culture, including the history, culture, socio-economic, and political organization<br>
 - recognizing the utility of different humanistic and social science disciplines in understanding a culture<br>
@@ -23,20 +20,8 @@ The Asian Studies program will assist students in:<br>
 - recognizing the way language serves as a foundation of culture<br>
 - understanding the issues and requirements of cross-cultural communication; and<br>
 - taking more initiative in educating themselves, to make analytical generalizations, to make ethical choices, and to feel confident in these and other exercises of personal responsibility.<br>
+
 - Learn More About the [BA in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
-  </p>
-</div>
-<div class="col m12 l4"><br>
-  <div class="course-box">
-    <b>Languages of Study:</b>
-    <ul>
-    <li><a href="http://www.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
-    <li><a href="http://www.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
-    <li><a href="http://www.cla.temple.edu/arabic/" title="Arabic">Arabic</a></li>
-    </ul>
-    </div>
-</div>
-</div>
 
 ## Minors
 
@@ -50,9 +35,10 @@ The Asian Studies minor requires a minimum of 18 credits, but may require more i
 
 - Learn More About the [Minor in Asian Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/
 
-If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education).
+## Languages of Study:
+The Department of Asian and Middle Eastern Languages and Studies offers programs leading to an undergraduate minor or certificate of language proficiency in Arabic, Chinese, and Japanese. The department also offers instruction in Hebrew, Hindi, and Korean. Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers.
+- [Chinese](http://www.cla.temple.edu/chinese/)
+- [Japanese](http://www.cla.temple.edu/japanese/)
+- [Arabic](http://www.cla.temple.edu/arabic/)
 
-## Studies in Hebrew, Hindi and Korean
-We offer courses to help you develop a usable proficiency in Hebrew, Hindi and Korean. With these skills, our students go on to careers in education, government, business and more. Students also use their knowledge of these languages to pursue advanced studies.
-
- When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
+**_If you are interested in taking a course as a non-matriculated student, please contact the [Office of Continuing Education](http://www.temple.edu/academics/continuing-education)_**.
