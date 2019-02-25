@@ -21,19 +21,19 @@ The Asian Studies program will assist students in:<br>
 - understanding the issues and requirements of cross-cultural communication; and<br>
 - taking more initiative in educating themselves, to make analytical generalizations, to make ethical choices, and to feel confident in these and other exercises of personal responsibility.<br>
 
-- Learn More About the [BA in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
+Learn More About the [BA in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
 
 ## Minors
 
 ### Minor in Asian American Studies
 This interdisciplinary minor focuses on Asian American history, culture, and contemporary issues as well as their Asian roots and American context. The Asian American Minor is six courses (18 s.h.): four in Asian American Studies, one in American Studies, and one Asian Studies course under an Asian Studies or cross-listed number, as distributed in the requirements list.
 
-- Learn More About the [Minor in Asian American Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/)
+Learn More About the [Minor in Asian American Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/)
 
 ### Minor in Asian Studies
 The Asian Studies minor requires a minimum of 18 credits, but may require more if the Language requirement is not satisfied by examination of oral/aural and reading skills in any Asian language approved by the Asian Studies head advisor.
 
-- Learn More About the [Minor in Asian Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/
+Learn More About the [Minor in Asian Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
 
 ## Languages of Study:
 The Department of Asian and Middle Eastern Languages and Studies offers programs leading to an undergraduate minor or certificate of language proficiency in Arabic, Chinese, and Japanese. The department also offers instruction in Hebrew, Hindi, and Korean. Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers.
