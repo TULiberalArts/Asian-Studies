@@ -21,7 +21,7 @@ The College of Liberal Arts’ Department of Asian Studies offers four Arabic an
 </div>
 <div class="col m12 l4"><br>
   <div class="course-box">
-    <b>Areas of Study:</b>
+    <b>Languages of Study:</b>
     <ul>
     <li><a href="http://www.cla.temple.edu/chinese/" title="Chinese">Chinese</a></li>
     <li><a href="http://www.cla.temple.edu/japanese/" title="Japanese">Japanese</a></li>
