@@ -23,7 +23,6 @@ The Asian Studies program will assist students in:<br>
 - recognizing the way language serves as a foundation of culture<br>
 - understanding the issues and requirements of cross-cultural communication; and<br>
 - taking more initiative in educating themselves, to make analytical generalizations, to make ethical choices, and to feel confident in these and other exercises of personal responsibility.<br>
-
 - Learn More About the [BA in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
   </p>
 </div>
