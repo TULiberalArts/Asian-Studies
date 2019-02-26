@@ -36,7 +36,7 @@ The Asian Studies minor requires a minimum of 18 credits, but may require more i
 Learn More About the [Minor in Asian Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
 
 ## Languages of Study
-The Department of Asian and Middle Eastern Languages and Studies offers programs leading to an undergraduate minor or certificate of language proficiency in Arabic, Chinese, and Japanese. The department also offers instruction in Hebrew, Hindi, and Korean. Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers.
+The [Department of Asian and Middle Eastern Languages and Studies](http://dev.cla.temple.edu/asian-and-middle-eastern-languages-and-studies/) offers programs leading to an undergraduate minor or certificate of language proficiency in Arabic, Chinese, and Japanese. The department also offers instruction in [Hebrew](https://bulletin.temple.edu/undergraduate/courses/hebr/), [Hindi](https://bulletin.temple.edu/undergraduate/courses/hin/), and [Korean](https://bulletin.temple.edu/undergraduate/courses/krn/). Our programs are designed to provide the language skills and cultural knowledge needed for a number of professions and careers.
 - [Chinese](http://www.cla.temple.edu/chinese/)
 - [Japanese](http://www.cla.temple.edu/japanese/)
 - [Arabic](http://www.cla.temple.edu/arabic/)
