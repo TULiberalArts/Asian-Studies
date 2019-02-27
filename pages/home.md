@@ -19,17 +19,10 @@ feature-body: >-
 Asian Studies draws on the resources of many departments to provide a comprehensive program of study on Asia (especially East Asia). Majors may concentrate on a geographic area, field, or theme(s). By combining language with the study of politics, history, society, art, religion, philosophy, and literature, each student can construct a major tailored to his or her individual interests. The curriculum gives students a foundation for living or working in Asia, or continuing their studies through developing a knowledge base, cross-cultural sensitivity, analytic thinking, and communication and writing skills in English and Asian languages.
 
 ## Academic Offerings
- - [Major in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
- - [Major in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
- - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
- - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
- - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
- - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
- - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
-  - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-arabic/)
- - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)
- - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)
- - [Certificate in Asian Business and Society](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-asian-business-society/)
+
+- [Bachelor of Arts in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
+- [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
+- [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
 
 ___
 
