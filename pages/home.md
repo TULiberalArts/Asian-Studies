@@ -16,7 +16,8 @@ feature-body: >-
   Develop the language skills and cultural knowledge needed for careers and
   professions ranging from business and government to education and the media.
 ---
-Asian Studies draws on the resources of many departments to provide a comprehensive program of study on Asia (especially East Asia). Majors may concentrate on a geographic area, field, or theme(s). By combining language with the study of politics, history, society, art, religion, philosophy, and literature, each student can construct a major tailored to his or her individual interests. The curriculum gives students a foundation for living or working in Asia, or continuing their studies through developing a knowledge base, cross-cultural sensitivity, analytic thinking, and communication and writing skills in English and Asian languages.
+## Major or Minor in Asian Studies
+If you want to study Chinese, Japanese, or Korean and take courses in several disciplines (such as literature, religion, history, and anthropology), the Asian Studies major is for you. Are you looking for a program to round out your other studies at Temple? Consider a minor in Asian Studies. Prepare yourself for careers that require linguistic proficiency and cultural knowledge. 
 
 ## Academic Offerings
 
