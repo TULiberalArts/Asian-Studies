@@ -27,18 +27,18 @@ If you want to study [Chinese](http://www.cla.temple.edu/chinese/), [Japanese](h
 
 ___
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-image.html
     title="Study Abroad"
     content="Prepare for careers that require a global perspective by combining language classes with courses focusing on culture and history—and participating in the daily life of your host country."
     image=""
     button-link="http://studyabroad.temple.edu/"
     button-text="Learn More" %}
   </div>
-  <div class="row row-wide">
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-image.html
         title="Literature, Film and Popular Culture"
         content="Asian Studies welcomes students from any major interested in courses on literature, film, and pop culture taught in English."
         image=""
