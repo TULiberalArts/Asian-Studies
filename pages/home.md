@@ -17,7 +17,7 @@ feature-body: >-
   professions ranging from business and government to education and the media.
 ---
 ## Major or Minor in Asian Studies
-If you want to study Chinese, Japanese, or Korean and take courses in several disciplines (such as literature, religion, history, and anthropology), the Asian Studies major is for you. Are you looking for a program to round out your other studies at Temple? Consider a minor in Asian Studies. Prepare yourself for careers that require linguistic proficiency and cultural knowledge. 
+If you want to study [Chinese](http://www.cla.temple.edu/chinese/), [Japanese](http://www.cla.temple.edu/japanese/), or Korean and take courses in several disciplines (such as literature, religion, history, and anthropology), the Asian Studies major is for you. Are you looking for a program to round out your other studies at Temple? Consider a minor in Asian Studies. Prepare yourself for careers that require linguistic proficiency and cultural knowledge. 
 
 ## Academic Offerings
 
