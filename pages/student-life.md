@@ -17,5 +17,5 @@ Studying your language abroad is a very good way to develop your overall linguis
 
 Explore [Study Abroad Programs](https://studyabroad.temple.edu/programs) by country.
 
-## Foreign Language Placement, Waiver and Assessment Requests
+## Foreign Language Placement and Waiver Requests
 For questions about placement and waivers in Chinese, Japanese, or Korean—please email [asian_studies@temple.edu](mailto:asian_studies@temple.edu).
