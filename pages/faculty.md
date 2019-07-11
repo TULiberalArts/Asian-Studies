@@ -12,4 +12,4 @@ keywords: 'faculty, asian studies'
 faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
 ---
-Our faculty members have studied and taught all over the world. They work closely with our students in small classes.
+Take courses with faculty from the Department of Asian and Middle Eastern Languages and Studies and with Asian Studies affiliated faculty from other departments.
