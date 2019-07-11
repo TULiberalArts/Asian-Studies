@@ -12,4 +12,3 @@ keywords: 'faculty, asian studies'
 faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
 ---
-Take courses with faculty from the Department of Asian and Middle Eastern Languages and Studies and with Asian Studies affiliated faculty from other departments.
