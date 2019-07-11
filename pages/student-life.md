@@ -10,7 +10,7 @@ description: >-
 keywords: 'contact, study abroad, scholarships, east and west club, foreign language assessment'
 # custom variables
 ---
-Learn about [study abroad options](#study-abroad) and [foreign language placement requests](#foreign-language-placement-waiver-and-assessment-requests).
+Learn about [study abroad options](#study-abroad) and [foreign language placement requests and waiver](#foreign-language-placement-waiver-and-assessment-requests).
 
 ## Study Abroad
 Studying your language abroad is a very good way to develop your overall linguistic proficiency. Prepare for careers that require a global perspective by combining language classes with courses focusing on culture and history—and participating in the daily life of your host country. Credits earned in preapproved study abroad programs can be applied to major, minor, and other university requirements.  
