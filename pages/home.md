@@ -10,7 +10,7 @@ keywords: 'Chinese, Arabic, Japanese, Asian Studies, language, academic offering
 # custom variables
 promotion-table: true
 feature: true
-feature-title: Major or Minor in Asian Studies
+feature-title: 
 feature-image: media/hero_bg.png
 feature-body: >-
   Develop the language skills and cultural knowledge needed for careers and
@@ -22,7 +22,6 @@ If you want to study [Chinese](http://www.cla.temple.edu/chinese/), [Japanese](h
 ## Academic Offerings
 
 - [Bachelor of Arts in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
-- [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-american-studies-minor/#text)
 - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
 
 ___
