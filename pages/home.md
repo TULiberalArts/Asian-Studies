@@ -21,7 +21,7 @@ If you want to study [Chinese](http://www.cla.temple.edu/chinese/), [Japanese](h
 
 ## Academic Offerings
 
-- [Bachelor of Arts in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/ba-asian-studies/)
+- [Bachelor of Arts in Asian Studies](https://www.temple.edu/academics/degree-programs/asian-studies-major-la-asst-ba)
 - [Minor in Asian Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
 
 ___
