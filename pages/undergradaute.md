@@ -14,5 +14,5 @@ sidebar: sidebars/undergraduate.html
 ## Bachelor of Arts in Asian Studies / Minor in Asian Studies
 A major or minor in Asian Studies helps prepare students for careers that require a global outlook and expertise. Develop the language skills in Chinese, Japanese, and Korean and the interdisciplinary knowledge needed for careers and professions ranging from business and government to education and the media.
 
-- Learn More About the [Bachelor of Arts in Asian Studies](https://www.temple.edu/academics/degree-programs/asian-studies-major-la-asst-ba)
-- Learn More About the [Minor in Asian Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
+- Learn More about the [Bachelor of Arts in Asian Studies](https://www.temple.edu/academics/degree-programs/asian-studies-major-la-asst-ba)
+- Learn More about the [Minor in Asian Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/asian-studies/asian-studies-minor/)
